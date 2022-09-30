@@ -24,7 +24,7 @@ header h1{
     float: left;
 }
 section{
-    background-color: rgb(75, 3, 94);
+    background-color: rgb(67, 3, 85);
     width: 110.95vh;
     float: left;
     height: 83vh;
@@ -33,7 +33,7 @@ section img{
     float: left;
     width: 90vh;
     height: 75vh;
-    box-shadow: 10px 10px rgb(103, 37, 122);
+    box-shadow: 10px 10px rgb(94, 42, 108);
     
 }
 section h2{
@@ -43,10 +43,14 @@ section h2{
     font-family: Georgia, 'Times New Roman', Times, serif;   
 }
 footer{
-    background-image: linear-gradient( to top, rgba(41, 98, 202, 0), rgb(15, 98, 175),rgb(22, 128, 228), rgb(70, 179, 241)); 
+    background-image: linear-gradient( to top, rgba(41, 98, 202, 0), rgb(14, 90, 160),rgb(20, 122, 216), rgb(63, 167, 228)); 
 }
 footer img{
     width: 10vh;
     height: 10vh; 
 }
-
+a:link {
+    color:black;
+    text-decoration: none;
+   
+  }
