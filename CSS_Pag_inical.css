@@ -1,0 +1,52 @@
+*{
+    margin: 0 auto;
+}
+header{
+    background-image: linear-gradient( to top, rgba(41, 98, 202, 0), rgb(15, 98, 175),rgb(22, 128, 228), rgb(70, 179, 241));  
+    width: 100%;
+    height: 100px;
+}
+
+header img{
+    float: left;
+    width: 100px;
+    height: 100px;
+}
+header img .UM{
+    float: right;
+    width: 100px;
+    height: 100px;
+}
+header h1{ 
+    margin-right: 211.2px;
+    margin-left: 250px;
+    margin-top: 25px;
+    float: left;
+}
+section{
+    background-color: rgb(75, 3, 94);
+    width: 110.95vh;
+    float: left;
+    height: 83vh;
+}
+section img{
+    float: left;
+    width: 90vh;
+    height: 75vh;
+    box-shadow: 10px 10px rgb(103, 37, 122);
+    
+}
+section h2{
+    margin-top: 10px;
+    margin-left: 180px;
+    float: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;   
+}
+footer{
+    background-image: linear-gradient( to top, rgba(41, 98, 202, 0), rgb(15, 98, 175),rgb(22, 128, 228), rgb(70, 179, 241)); 
+}
+footer img{
+    width: 10vh;
+    height: 10vh; 
+}
+
